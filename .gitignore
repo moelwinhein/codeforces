@@ -1,0 +1,18 @@
+# Ignore all
+*
+
+# Unignore all files with extensions recursively
+!**/
+!**/*.*
+
+**/.DS_Store
+
+**/.idea
+
+**/cmake-build*
+**/CMakeLists.txt
+**/input.txt
+**/output.txt
+
+!template/
+!template/*
